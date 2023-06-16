@@ -1,0 +1,41 @@
+*}
+font-family:sans-serif;
+    }
+u{ color:red;
+  }
+h1{
+  color:red;
+  font-size:30px;
+  text-align:center;
+  }
+p{
+  color:orange;
+  text-align:center;
+}
+
+.form-div{
+  margin:auto;
+  background-color:#ffa420;
+  border:solid 5px red;
+  width:250px;
+  text-align:center ;
+  height:250px;
+  }
+input{
+  display:block;
+  margin:auto;
+  margin-top:7px;
+  margin-bottom:15px;
+  background-color:yellow;
+  color:red;
+  outline:none;
+  border-left:red 2px double;
+  border-bottom:red 2px double;
+}
+#button{
+  background-color:red;
+  color:white;
+  margin:auto;
+  margin-top:18px;
+  margin-bottom:18px;
+  
